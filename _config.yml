@@ -127,4 +127,8 @@ defaults:
       path: "pdf.md"
     values:
       layout: "pdf"
-
+  -
+    scope:
+      path: "hellowordl.md"
+    values:
+      layout: "helloworld"
